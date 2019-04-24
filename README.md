@@ -1,5 +1,3 @@
-# elegans
-
 <h1>Structural Properties of the <i>Caenorhabditis elegans</i> Neuronal Network</h1>
 <h2>Lav R. Varshney, Beth L. Chen, Eric Paniagua, David H. Hall, and Dmitri B. Chklovskii</h2>
 
